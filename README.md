@@ -1,5 +1,4 @@
 # React - Help :speech_balloon::question:
----
 
 ## [Node sass problems](https://www.reddit.com/r/reactjs/comments/7mpcoo/can_anyone_tell_me_why_this_app_is_not_building/)
 
