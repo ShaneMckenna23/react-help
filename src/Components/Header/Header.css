@@ -1,0 +1,35 @@
+.main_header {
+    width: 100vw;
+    height: 100px;
+    background-color: #862633;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    box-shadow: 1px 1px 1px 1px #6b1621;
+    z-index: 100;
+    left: 0;
+  }
+
+@media only screen and (max-width: 800px) {
+  .main_header { height: 80px !important; }
+  .main_header_options { display: none !important; }
+  .main_logo_container { margin-left: 10px !important; font-size: 10px !important; width: 30% !important; }
+  .main_logo_container img { width: 130px !important; }
+}
+  
+  .main_logo_container {
+    width: 19%;
+    margin-left: 2%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    font-weight: bolder;
+    font-size: 17px;
+  }
+  
+  .main_logo_container img {
+    width: 230px;
+  }

@@ -1,0 +1,8 @@
+.main_page {
+    width: 100vw;
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    color: rgb(66, 66, 66);
+    font-family: Helvetica, sans-serif !important;
+}

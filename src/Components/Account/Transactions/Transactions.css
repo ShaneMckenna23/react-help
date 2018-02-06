@@ -1,0 +1,26 @@
+.category_bar_container {
+    display: flex;
+    height: 480px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.change_category_button {
+    width: 150px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(66, 97, 109);
+    color: white;
+    cursor: pointer;
+}
+
+.change_category_button img {
+    width: 50px;
+    height: 50px;
+    margin: 15px;
+}

@@ -1,0 +1,76 @@
+.main_myaccount_container {
+    width: 100vw;
+    height: 92vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main_myaccount_container > h1 {
+    position: absolute;
+    margin-top: 80px;
+    font-size: 30px;
+}
+
+.boxes_myaccount_container {
+    width: 700px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+}
+
+.boxes_myaccount_container a {
+    width: 40%;
+    height: 300px;
+    margin: 10px;
+}
+
+.boxes_myaccount_container a:nth-child(3) {
+    width: 83%;
+    height: 200px;
+    margin: 10px;
+}
+
+.half-box {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(66, 97, 109);
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bolder;
+    box-shadow: 1px 1px 1px 1px rgb(201, 201, 201);
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.half-box img {
+    width: 28%;
+    height: 28%;
+    margin: 20px;
+}
+
+.full-box {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(79, 132, 153);
+    margin: 10px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bolder;
+    box-shadow: 1px 1px 1px 1px rgb(201, 201, 201);
+    cursor: pointer;
+}
+
+.full-box img {
+    width: 12%;
+    height: 35%;
+    margin: 20px;
+}
