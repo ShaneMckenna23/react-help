@@ -8,8 +8,8 @@
 >
 >Edit: I haven't done anything with Webpack or Browserify. (I'm new to hosting, so please go easy)
 
-Hello,<br>
-I hosted your application on Netlify: https://wonderful-ramanujan-f1515b.netlify.com/#/<br>
+Hello,<br/>
+I hosted your application on Netlify: https://wonderful-ramanujan-f1515b.netlify.com/#/<br/>
 There are lots of ways you can host your react web application. Depending on your requirements you may choose one option over another. Your application is fairly striaht forward to host, you simply have to serve your build folder.
 
 ## Fixes
@@ -23,5 +23,5 @@ You must remove the homepage value to host your website on other hosting platfor
 ## Hosting
 Netlify is a service that can host static sites. It's easy to setup and they have a generous free plan. Check out this tutorial to help you learn how to use it. https://www.slightedgecoder.com/2017/12/09/deploying-existing-create-react-app-github-netlify/
 
-Regards, 
+Regards,<br/>
 Shane
