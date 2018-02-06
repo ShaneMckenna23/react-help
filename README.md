@@ -9,3 +9,4 @@ git clone -b <project> --single-branch https://github.com/ShaneMckenna23/react-h
 ## Projects
  1. [node-sass](https://github.com/ShaneMckenna23/react-help/tree/node-sass)
  2. [access-public-api](https://github.com/ShaneMckenna23/react-help/tree/access-public-api)
+ 3. [react-hosting](https://github.com/ShaneMckenna23/react-help/tree/react-hosting)
