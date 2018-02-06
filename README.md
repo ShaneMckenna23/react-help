@@ -13,7 +13,6 @@ Try follow the steps above to fix your issue. I created a working repo that you 
 
 Regards, Shane
 
-<<<<<<< HEAD
 ## Access public API
 =======
 ## [Access public API](https://www.reddit.com/r/reactjs/comments/7os450/trying_to_build_a_react_frontend_for_a_public_api/)
@@ -39,15 +38,3 @@ Another popular library for making requests is [Axios](https://github.com/axios/
 [Example App](https://github.com/ShaneMckenna23/react-help-2)
 
 Let me know if you have any more questions :)
-
-
-
-
-
-
-
-
-
-
-
->>>>>>> 4aee0b8cc01807a120a89d02e3ecbf8206a30b66
