@@ -13,8 +13,6 @@ Try follow the steps above to fix your issue. I created a working repo that you 
 
 Regards, Shane
 
-## Access public API
-=======
 ## [Access public API](https://www.reddit.com/r/reactjs/comments/7os450/trying_to_build_a_react_frontend_for_a_public_api/)
 
 >Trying to build a react front-end for a public API. I'm using this as mostly a learning exercise but would also like to incorporate best practices wherever I can.
