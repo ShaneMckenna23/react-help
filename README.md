@@ -13,3 +13,5 @@ To fix this first look at the build-css stage and point node-sass-chokidar to sr
 Try follow the steps above to fix your issue. I created a working repo that you can compare with afterwards. https://github.com/ShaneMckenna23/react-help
 
 Regards, Shane
+
+## Access public API
