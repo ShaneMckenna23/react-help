@@ -9,7 +9,7 @@
 >Edit: I haven't done anything with Webpack or Browserify. (I'm new to hosting, so please go easy)
 
 Hello,<br>
-I hosted your application on Netlify: https://wonderful-ramanujan-f1515b.netlify.com/#/
+I hosted your application on Netlify: https://wonderful-ramanujan-f1515b.netlify.com/#/<br>
 There are lots of ways you can host your react web application. Depending on your requirements you may choose one option over another. Your application is fairly striaht forward to host, you simply have to serve your build folder.
 
 ## Fixes
